@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 /**
  * 练习一下数组的写法
- * 顺便练习一下手感
+ * 顺便练习一下手感和加深对代码的理解
  */
 public class Test {
     public static void main1(String[] args) {
